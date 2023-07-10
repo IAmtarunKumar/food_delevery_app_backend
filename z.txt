@@ -1,0 +1,45 @@
+//users
+{
+
+  "name": "arun",
+  "email": "arun@gmail.com",
+  "password": "vijay",
+  "address": {
+    "street": "street No 10",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "zip": "110059"
+  }
+}
+
+
+//menu
+
+{
+  "name" : "saahi paneer",
+  "price" : 180,
+  "image" : "xyz.jpge",
+  "description" : "paneer"
+}
+
+//order
+
+{
+ 
+  "name": "abc rest",
+  "address": {
+    "street": "a",
+    "city": "delhi",
+    "state": "delhi",
+    "country": "india",
+    "zip": "110059"
+  },
+  "menu": [{
+   
+    "name": "chicken kari",
+    "description": "spice",
+    "price": 5000,
+    "image": "img"
+  }]
+}
